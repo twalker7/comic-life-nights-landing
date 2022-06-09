@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/comic-life-nights-landing/static/css/main.073c9b0a.css",
-    "main.js": "/comic-life-nights-landing/static/js/main.847958a3.js",
+    "main.js": "/comic-life-nights-landing/static/js/main.d8bf71aa.js",
     "static/js/787.304dab68.chunk.js": "/comic-life-nights-landing/static/js/787.304dab68.chunk.js",
     "static/media/logo.svg": "/comic-life-nights-landing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/comic-life-nights-landing/index.html",
     "main.073c9b0a.css.map": "/comic-life-nights-landing/static/css/main.073c9b0a.css.map",
-    "main.847958a3.js.map": "/comic-life-nights-landing/static/js/main.847958a3.js.map",
+    "main.d8bf71aa.js.map": "/comic-life-nights-landing/static/js/main.d8bf71aa.js.map",
     "787.304dab68.chunk.js.map": "/comic-life-nights-landing/static/js/787.304dab68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.847958a3.js"
+    "static/js/main.d8bf71aa.js"
   ]
 }
