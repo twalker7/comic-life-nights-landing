@@ -1,16 +1,14 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 import Header from '../src/components/Header';
+import Content from '../src/components/Content';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+       
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -23,6 +21,7 @@ function App() {
 
 
         <Header/>
+        <Content/>
       </header>
     </div>
   );
