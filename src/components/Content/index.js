@@ -1,4 +1,5 @@
 import React from 'react';
+import {Row, Col} from 'react-bootstrap';
 
 
 
@@ -7,7 +8,7 @@ import React from 'react';
 function Content(){
 
     return(
-        <div> Content!
+        <div>
             
 
            <div>
