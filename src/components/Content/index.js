@@ -11,10 +11,19 @@ function Content(){
         <div>
             
 
+
+
+            <Row>
+
+                <Col>
+                    
            <div>
                <img className="comic-feature" src ={require(`../../assets/comic-nick-alexander.jpg`)}/>
             
             </div> 
+                </Col>
+
+            </Row>
         </div>
     );
 }
