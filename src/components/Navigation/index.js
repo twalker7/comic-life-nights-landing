@@ -12,9 +12,9 @@ function Navigation(){
 <div className="navigation-container">
   <div> <a href={false}> home</a></div>
 
-  <div> Upcoming</div>
+  <div> <a href={false}> Upcoming </a></div>
 
-  <div> Contact </div>
+  <div> <a href={false}> Send a Clip </a> </div>
 
   
 
