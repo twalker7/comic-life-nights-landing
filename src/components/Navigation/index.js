@@ -9,25 +9,16 @@ import { NavDropdown, Container, Navbar, Nav, Row, Col} from 'react-bootstrap';
 function Navigation(){
 
     return(
+<div className="navigation-container">
+  <div> hello</div>
 
-  <Nav className="nav-holder">
- 
+  <div> goodbye</div>
+
+  <div> goodbye</div>
 
   
 
-<Nav.Link >Home</Nav.Link>
-
-
-<Nav.Link > Upcoming</Nav.Link> 
-
-
-<Nav.Link > Contact </Nav.Link>
-
-
-
-</Nav>
-
-
+</div>
     );
 }
 

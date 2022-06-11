@@ -7,10 +7,12 @@ import Content from '../src/components/Content';
 function App() {
   return (
     <div className="App">
-      <main className="App-main">
-        <Header/>
-        <Content/>
+      <main className="App-header">
+      <Header/>
       </main>
+        
+      <Content/>
+  
       
       
     </div>
