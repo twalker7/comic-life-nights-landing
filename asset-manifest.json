@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/comic-life-nights-landing/static/css/main.665515fb.css",
-    "main.js": "/comic-life-nights-landing/static/js/main.5f3cbfc4.js",
+    "main.css": "/comic-life-nights-landing/static/css/main.8f79b43e.css",
+    "main.js": "/comic-life-nights-landing/static/js/main.ef938755.js",
     "static/js/787.304dab68.chunk.js": "/comic-life-nights-landing/static/js/787.304dab68.chunk.js",
     "static/media/comic-nick-alexander.jpg": "/comic-life-nights-landing/static/media/comic-nick-alexander.c33bf703787c0f14ed8d.jpg",
     "index.html": "/comic-life-nights-landing/index.html",
-    "main.665515fb.css.map": "/comic-life-nights-landing/static/css/main.665515fb.css.map",
-    "main.5f3cbfc4.js.map": "/comic-life-nights-landing/static/js/main.5f3cbfc4.js.map",
+    "main.8f79b43e.css.map": "/comic-life-nights-landing/static/css/main.8f79b43e.css.map",
+    "main.ef938755.js.map": "/comic-life-nights-landing/static/js/main.ef938755.js.map",
     "787.304dab68.chunk.js.map": "/comic-life-nights-landing/static/js/787.304dab68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.665515fb.css",
-    "static/js/main.5f3cbfc4.js"
+    "static/css/main.8f79b43e.css",
+    "static/js/main.ef938755.js"
   ]
 }
