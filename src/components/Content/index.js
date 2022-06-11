@@ -11,7 +11,7 @@ function Content(){
         <div>
             
 
-
+          <h1>  Featured Comics </h1>
 
             <Row>
 
@@ -22,6 +22,17 @@ function Content(){
             
             </div> 
                 </Col>
+
+            </Row>
+            <Row>
+
+            <Col>
+                
+            <div>
+            <img className="comic-feature" src ={require(`../../assets/comic-ryan-cheaves.jpg`)}/>
+
+            </div> 
+            </Col>
 
             </Row>
         </div>

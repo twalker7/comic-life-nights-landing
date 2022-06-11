@@ -10,11 +10,11 @@ function Navigation(){
 
     return(
 <div className="navigation-container">
-  <div> hello</div>
+  <div> <a href={false}> home</a></div>
 
-  <div> goodbye</div>
+  <div> Upcoming</div>
 
-  <div> goodbye</div>
+  <div> Contact </div>
 
   
 
