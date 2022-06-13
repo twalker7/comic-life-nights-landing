@@ -6,15 +6,19 @@ import { NavDropdown, Container, Navbar, Nav, Row, Col} from 'react-bootstrap';
 
 
 
-function Navigation(){
+function Navigation(props){
 
     return(
 <div className="navigation-container">
-  <div> <a href={false}> home</a></div>
+  <div> <a href={false}> Home</a></div>
 
-  <div> <a href={false}> Upcoming </a></div>
+  <div> <a href={false}> Upcoming  </a></div>
 
-  <div> <a href={false}> Send a Clip </a> </div>
+  <div> <a href={false}> Meet the Comics </a> </div>
+  <div> <a href={false}> About </a> </div>
+  <div> <a href={false}> Contact/Submissions </a> </div>
+
+
 
   
 

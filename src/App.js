@@ -3,6 +3,7 @@ import './App.css';
 
 import Header from '../src/components/Header';
 import Content from '../src/components/Content';
+import {Container, Row, Col} from 'react-bootstrap';
 
 function App() {
   return (
@@ -12,9 +13,6 @@ function App() {
       </main>
         
       <Content/>
-  
-      
-      
     </div>
   );
 }
