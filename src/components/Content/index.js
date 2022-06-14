@@ -15,7 +15,7 @@ function Content(){
               <img id="jumbotron" src={require(`../../assets/flyer.jpg`)}/>
             </div>
 
-          <h1 className="section-title">  Featured Comics </h1>
+          <h1 className="section-title" id="meet-the-comics">  Meet the Comics </h1>
 
                     
            <div>

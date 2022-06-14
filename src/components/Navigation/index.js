@@ -14,7 +14,7 @@ function Navigation(props){
 
   <div> <a href={false}> Upcoming  </a></div>
 
-  <div> <a href={false}> Meet the Comics </a> </div>
+  <div> <a href={'#meet-the-comics'}> Meet the Comics </a> </div>
   <div> <a href={false}> About </a> </div>
   <div> <a href={false}> Contact/Submissions </a> </div>
 

@@ -43,6 +43,14 @@
 #jumbotron{
   max-width: 80%;
 }
+
+#meet-the-comics{
+  color: white;
+}
+
+a:visted{
+  color: white;
+}
 .comic-feature{
   max-width: 80%;
   margin-top: 10px;
