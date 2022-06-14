@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/comic-life-nights-landing/static/css/main.36999b23.css",
-    "main.js": "/comic-life-nights-landing/static/js/main.311c876e.js",
+    "main.css": "/comic-life-nights-landing/static/css/main.7a862f8d.css",
+    "main.js": "/comic-life-nights-landing/static/js/main.80713502.js",
     "static/js/787.304dab68.chunk.js": "/comic-life-nights-landing/static/js/787.304dab68.chunk.js",
     "static/media/comic-life-nights-logo.png": "/comic-life-nights-landing/static/media/comic-life-nights-logo.db95b512011dac77e300.png",
     "static/media/flyer.jpg": "/comic-life-nights-landing/static/media/flyer.8c88014d66583946b08d.jpg",
     "static/media/comic-nick-alexander.jpg": "/comic-life-nights-landing/static/media/comic-nick-alexander.c33bf703787c0f14ed8d.jpg",
     "static/media/comic-ryan-cheaves.jpg": "/comic-life-nights-landing/static/media/comic-ryan-cheaves.caff7ac355316e8bbedf.jpg",
     "index.html": "/comic-life-nights-landing/index.html",
-    "main.36999b23.css.map": "/comic-life-nights-landing/static/css/main.36999b23.css.map",
-    "main.311c876e.js.map": "/comic-life-nights-landing/static/js/main.311c876e.js.map",
+    "main.7a862f8d.css.map": "/comic-life-nights-landing/static/css/main.7a862f8d.css.map",
+    "main.80713502.js.map": "/comic-life-nights-landing/static/js/main.80713502.js.map",
     "787.304dab68.chunk.js.map": "/comic-life-nights-landing/static/js/787.304dab68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36999b23.css",
-    "static/js/main.311c876e.js"
+    "static/css/main.7a862f8d.css",
+    "static/js/main.80713502.js"
   ]
 }
