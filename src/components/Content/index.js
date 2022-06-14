@@ -8,14 +8,14 @@ import {Row, Col} from 'react-bootstrap';
 function Content(){
 
     return(
-        <div className="content-section">
+        <div className="content-component">
             
             <div>  
-              <h1> Next Up.. </h1>  
+              <h1 className="section-title"> Next Up.. </h1>  
               <img id="jumbotron" src={require(`../../assets/flyer.jpg`)}/>
             </div>
 
-          <h1>  Featured Comics </h1>
+          <h1 className="section-title">  Featured Comics </h1>
 
                     
            <div>

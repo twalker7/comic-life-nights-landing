@@ -29,9 +29,15 @@
  padding-top: 10px
 }
 
-.content-section{
+
+
+.content-component{
   background-color: #282c34; 
-  margin: -20px;
+  margin: -22px;
+}
+
+.section-title{
+  color: white;
 }
 
 #jumbotron{
