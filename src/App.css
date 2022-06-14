@@ -48,8 +48,9 @@
   color: white;
 }
 
-a:visted{
+a{
   color: white;
+  text-decoration: none;
 }
 .comic-feature{
   max-width: 80%;
