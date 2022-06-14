@@ -2,10 +2,14 @@ import React from 'react';
 import Navigation from '../Navigation'
 
 
-function Header(){
+function Header(props){
 
     return(
-        <header> <Navigation/> </header>
+        <header>
+            <img id="header-logo" src={require(`../../assets/comic-life-nights-logo.png`)}/>
+
+             <Navigation/> 
+        </header>
     );
 }
 

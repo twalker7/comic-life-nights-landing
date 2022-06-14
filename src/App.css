@@ -10,12 +10,10 @@
   color: white;
 }
 
-
-.comic-feature{
-max-width: 80%;
-margin-top: 20px;
-
+#header-logo{
+  max-width: 20%;
 }
+
 
 .nav-holder{
   display: flex;
@@ -31,7 +29,21 @@ margin-top: 20px;
  padding-top: 10px
 }
 
+.content-section{
+  background-color: #282c34; 
+  margin: -20px;
+}
 
+#jumbotron{
+  max-width: 80%;
+}
+.comic-feature{
+  max-width: 80%;
+  margin-top: 10px;
+  
+  }
+
+  
 
 @keyframes App-logo-spin {
   from {
