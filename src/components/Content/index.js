@@ -11,7 +11,7 @@ function Content(){
         <div className="content-component">
             
             <div>  
-              <h1 className="section-title"> Next Up.. </h1>  
+              
               <img id="jumbotron" src={require(`../../assets/flyer.jpg`)}/>
             </div>
 
