@@ -5,7 +5,7 @@ import {Row, Col} from 'react-bootstrap';
 
 
 
-function Content(){
+function FeatureContent(){
 
     return(
         <div className="content-component">
@@ -45,4 +45,4 @@ function Content(){
 }
 
 
-export default Content;
+export default FeatureContent;
