@@ -3,7 +3,8 @@ import './App.css';
 import { useState } from 'react';
 import Header from '../src/components/Header';
 import FeatureContent from './components/FeatureContent';
-import {Container, Row, Col} from 'react-bootstrap';
+import Contact from './components/Contact';
+
 
 function App() {
 
@@ -14,8 +15,12 @@ function App() {
       case 'home':
         return <FeatureContent/>
         break;
-    
-      default:
+
+      case 'contact':
+        return <Contact/>
+        break; 
+      
+      default: 
         break;
     }
   }

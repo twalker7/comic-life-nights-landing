@@ -8,7 +8,6 @@ function Header(props){
         <header>
             <img id="header-logo" src={require(`../../assets/comic-life-nights-logo.png`)}/>
 
-             <Navigation/> 
         </header>
     );
 }
