@@ -29,7 +29,7 @@ function App() {
   return (
     <div className="App">
       <main className="App-header">
-      <Header/>
+      <Header currentPage = {currentPage} setCurrentPage = {setCurrentPage}/>
       </main>
         
       {changePage()}
