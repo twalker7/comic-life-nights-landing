@@ -15,10 +15,6 @@
 }
 
 
-.nav-holder{
-  display: flex;
-  justify-content: space-between;
-}
 
 .navigation-container{
  width: 100vw;
@@ -26,7 +22,8 @@
  flex-direction: row;
  justify-content: space-evenly;
 
- padding-top: 10px
+ padding-top: 10px;
+
 }
 
 
@@ -61,6 +58,7 @@ a{
 
   
   }
+
 
   
 
