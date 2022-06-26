@@ -9,7 +9,7 @@ import Upcoming from './components/Upcoming'
 
 function App() {
 
-  const [currentPage, setCurrentPage] = useState('contact'); 
+  const [currentPage, setCurrentPage] = useState('home'); 
 
   function changePage(){
     switch (currentPage) {
