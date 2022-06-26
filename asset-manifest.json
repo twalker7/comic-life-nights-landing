@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/comic-life-nights-landing/static/css/main.a317c634.css",
-    "main.js": "/comic-life-nights-landing/static/js/main.3d381a1f.js",
+    "main.css": "/comic-life-nights-landing/static/css/main.5e3b41c7.css",
+    "main.js": "/comic-life-nights-landing/static/js/main.3d14ed48.js",
     "static/js/787.304dab68.chunk.js": "/comic-life-nights-landing/static/js/787.304dab68.chunk.js",
     "static/media/instagram-logo.jpg": "/comic-life-nights-landing/static/media/instagram-logo.0c4da9c192256652498d.jpg",
     "static/media/comic-life-nights-logo.png": "/comic-life-nights-landing/static/media/comic-life-nights-logo.db95b512011dac77e300.png",
@@ -10,13 +10,14 @@
     "static/media/comic-ryan-cheaves.jpg": "/comic-life-nights-landing/static/media/comic-ryan-cheaves.caff7ac355316e8bbedf.jpg",
     "static/media/comic-del-harrison.jpeg": "/comic-life-nights-landing/static/media/comic-del-harrison.546a9ca8ed6b687a0ea7.jpeg",
     "static/media/comic-terrence-murphy.jpg": "/comic-life-nights-landing/static/media/comic-terrence-murphy.6dbe7b406694777d3556.jpg",
+    "static/media/comic-life-nights-live-shot.jpeg": "/comic-life-nights-landing/static/media/comic-life-nights-live-shot.431d5d3993e18570efee.jpeg",
     "index.html": "/comic-life-nights-landing/index.html",
-    "main.a317c634.css.map": "/comic-life-nights-landing/static/css/main.a317c634.css.map",
-    "main.3d381a1f.js.map": "/comic-life-nights-landing/static/js/main.3d381a1f.js.map",
+    "main.5e3b41c7.css.map": "/comic-life-nights-landing/static/css/main.5e3b41c7.css.map",
+    "main.3d14ed48.js.map": "/comic-life-nights-landing/static/js/main.3d14ed48.js.map",
     "787.304dab68.chunk.js.map": "/comic-life-nights-landing/static/js/787.304dab68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a317c634.css",
-    "static/js/main.3d381a1f.js"
+    "static/css/main.5e3b41c7.css",
+    "static/js/main.3d14ed48.js"
   ]
 }
