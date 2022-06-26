@@ -6,7 +6,7 @@ import React from 'react';
 function FeatureContent(){
 
     return(
-        <div className="content-component">
+        <div className="homepage-component">
             
   
               

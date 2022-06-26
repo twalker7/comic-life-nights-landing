@@ -2,7 +2,7 @@ import React from 'react';
 
 function Upcoming(){
     return(
-        <div>
+        <div className="page-component">
 An Array of Upcoming shows 
         </div>
     );

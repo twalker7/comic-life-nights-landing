@@ -27,9 +27,14 @@
 
 
 
-.content-component{
+.page-component{
   background-color: #282c34; 
+  height: 100vh;
 
+}
+
+.homepage-component{
+background-color: #282c34;
 }
 
 .section-title{

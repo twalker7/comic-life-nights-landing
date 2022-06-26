@@ -36,9 +36,8 @@ function App() {
       <main className="App-header">
       <Header currentPage = {currentPage} setCurrentPage = {setCurrentPage}/>
       </main>
-   <h1> {currentPage} </h1>
       {changePage()}  
-        
+       
     </div>
   );
 }
