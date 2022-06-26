@@ -5,6 +5,7 @@ import Header from '../src/components/Header';
 import FeatureContent from './components/FeatureContent';
 import Contact from './components/Contact';
 import About from './components/About';
+import Upcoming from './components/Upcoming'
 
 function App() {
 
@@ -19,6 +20,9 @@ function App() {
         return <Contact/>
       case 'about':
         return <About/>
+
+        case 'upcoming':
+          return <Upcoming/>
       
       default: 
       return
