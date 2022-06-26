@@ -4,21 +4,21 @@ import { useState} from 'react';
 import Header from '../src/components/Header';
 import FeatureContent from './components/FeatureContent';
 import Contact from './components/Contact';
-
+import About from './components/About';
 
 function App() {
 
-  const [currentPage, setCurrentPage] = useState('home'); 
+  const [currentPage, setCurrentPage] = useState('contact'); 
 
   function changePage(){
     switch (currentPage) {
       case 'home':
         return <FeatureContent/>
         
-      
       case 'contact':
         return <Contact/>
-   
+      case 'about':
+        return <About/>
       
       default: 
       return

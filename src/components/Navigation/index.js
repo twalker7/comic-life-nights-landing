@@ -13,11 +13,8 @@ function Navigation(props){
   <div> <a href={''}> Upcoming  </a></div>
 
   <div> <a href={'#meet-the-comics'}> Meet the Comics </a> </div>
-  <div> <a href={''}> About </a> </div>
+  <div> <a href={''} onClick={()=> props.setCurrentPage('about')}> About </a> </div>
   <div> <a href={''} onClick={()=> props.setCurrentPage('contact')}> Contact/Submissions </a> </div>
-
-
-
   
 
 </div>
