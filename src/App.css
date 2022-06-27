@@ -8,6 +8,7 @@
   min-height: 10vh;
   font-size: 10px;
   color: white;
+  margin-bottom: -3vh;
 }
 
 #header-logo{
@@ -22,7 +23,7 @@
  justify-content: space-evenly;
 
  padding-top: 10px;
-
+padding-bottom: 10vh;
 }
 
 
