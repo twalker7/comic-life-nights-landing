@@ -37,7 +37,7 @@ function App() {
       <Header currentPage = {currentPage} setCurrentPage = {setCurrentPage}/>
       </main>
       {changePage()}  
-       
+        
     </div>
   );
 }
