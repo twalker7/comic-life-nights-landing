@@ -85,12 +85,14 @@ a{
   
 .link-container{
   margin-top: 30vh;
-
   display: flex;
   justify-content: center;
   width: 40vw;
 }
 
+.about-photo{
+width: 40vh;
+}
 
 .about-summary{
   color: white;
