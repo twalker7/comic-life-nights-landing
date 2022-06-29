@@ -11,9 +11,11 @@ function FeatureContent(){
   
               
               <img id="jumbotron" src={require(`../../assets/flyer.jpg`)} alt="Comic Life Nights 6/18/2022 Event Promotion"/>
-   
+              
+              <a href="https://www.eventbrite.com/e/comic-life-nights-tickets-362170741437?aff=ebdsoporgprofile" target="_target"><h3 className="section-title" id="eventbrite-link">Purchase Tickets on Eventbrite</h3></a>
 
-          <h1 className="section-title" id="meet-the-comics">  Meet the Comics </h1>
+
+          <h1 className="section-title" id="meet-the-comics">   Meet the Comics     </h1>
 
                     
            <div>
@@ -21,7 +23,6 @@ function FeatureContent(){
             
             </div> 
  
-
                 
             <div>
             <img className="comic-feature" src ={require(`../../assets/comic-ryan-cheaves.jpg`)} alt="Comedian Ryan Cheaves" />

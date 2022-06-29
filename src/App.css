@@ -25,6 +25,7 @@
  font-size: larger;
  padding-top: 10px;
 padding-bottom: 10vh;
+text-decoration: underline;
 }
 
 .page-component{
@@ -54,6 +55,7 @@ background-color: #282c34;
 
 #meet-the-comics{
   color: white;
+  margin-top: 30vh
 }
 
 a{
@@ -68,21 +70,21 @@ a{
 
 .instagram-logo{
   width: 20vw;
- margin-left: 120px;
+ 
 }
 
-.email-link{
+#email-link{
   color: white;
-  border: solid black 2px;
+  border: solid  #fede4a 2px;
   border-radius: 5%;
   padding: 5px;
- 
+ font-family: 'Bebas Neue', cursive ;
+ width: 50vw;
 }
   
 .link-container{
   margin-top: 30vh;
   display: flex;
-  justify-content: center;
   width: 40vw;
 }
 
@@ -93,6 +95,12 @@ width: 40vh;
 .about-summary{
   color: white;
 
+}
+
+#eventbrite-link{
+  margin-top: 5vh;
+  color: #fede4a;
+  text-decoration: underline;
 }
 @keyframes App-logo-spin {
   from {
