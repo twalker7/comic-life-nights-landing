@@ -11,7 +11,7 @@ function Contact(){
           
            <div className="link-container">
          
-                 <a id="email-link" href="mailto:delise1881@gmail.com" target="https://instagram.com/comiclifenights?igshid=YmMyMTA2M2Y="> Submit Content  </a>
+                 <a id="email-link" href="mailto:delise1881@gmail.com" target="https://instagram.com/comiclifenights?igshid=YmMyMTA2M2Y="> Email Us Content  </a>
          <Col />
          
            <a className="instagram-link" href="https://instagram.com/comiclifenights?igshid=YmMyMTA2M2Y="> <img className ="instagram-logo" src={require("../../assets/instagram-logo2.png")} /> </a>
