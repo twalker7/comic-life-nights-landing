@@ -48,6 +48,11 @@ background-color: #282c34;
   font-family: 'Bebas Neue', cursive;
 }
 
+.section-subtitle{
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+}
+
 #jumbotron{
   max-width: 80%;
   margin-top: 20px;
