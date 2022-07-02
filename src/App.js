@@ -5,7 +5,8 @@ import Header from '../src/components/Header';
 import FeatureContent from './components/FeatureContent';
 import Contact from './components/Contact';
 import About from './components/About';
-import Upcoming from './components/Upcoming'
+import Upcoming from './components/Upcoming';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -37,7 +38,7 @@ function App() {
       <Header currentPage = {currentPage} setCurrentPage = {setCurrentPage}/>
       </main>
       {changePage()}  
-        
+        <Footer/>
     </div>
   );
 }
