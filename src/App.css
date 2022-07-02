@@ -4,7 +4,7 @@
 
 
 .App-header{
-  background-color: #282c34;
+  background-color: black;
   min-height: 10vh;
   font-size: 10px;
   color: white;
@@ -30,13 +30,13 @@ text-decoration: underline;
 }
 
 .page-component{
-  background-color: #282c34; 
+  background-color: black; 
   height: 100vh;
 
 }
 
 .homepage-component{
-background-color: #282c34;
+background-color: black;
 }
 
 .contact-component{
