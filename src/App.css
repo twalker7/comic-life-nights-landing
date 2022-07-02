@@ -124,6 +124,8 @@ width: 40vh;
     transform: translate(-5px, 5%)
   }50%{
     transform: translate(-10px, 0%)
+  }75%{
+    transform: translate(-5px, 0%)
   }
   to {
     transform: translate(-1px, 0%)
