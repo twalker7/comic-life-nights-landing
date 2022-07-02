@@ -132,7 +132,10 @@ width: 40vh;
   }75%{
     transform: translate(-5px, 0%)
   }
-  to {
+  75%{
     transform: translate(-1px, 0%)
+  }
+  to {
+    transform: translate(3px, 0%)
   }
 }
