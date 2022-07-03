@@ -7,6 +7,7 @@ import Contact from './components/Contact';
 import About from './components/About';
 import Upcoming from './components/Upcoming';
 import Footer from './components/Footer';
+import Comics from './components/Comics';
 
 function App() {
 
@@ -24,6 +25,9 @@ function App() {
 
         case 'upcoming':
           return <Upcoming/>
+
+          case 'comics':
+            return <Comics/>
       
       default: 
       return

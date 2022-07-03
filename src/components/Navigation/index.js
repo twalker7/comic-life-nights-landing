@@ -12,7 +12,7 @@ function Navigation(props){
 
   <div> <a className="nav-element" href={()=>false} onClick={()=> props.setCurrentPage('upcoming')}> Upcoming  </a></div>
 
-  <div> <a className="nav-element" href={'#meet-the-comics'} onClick={()=> props.setCurrentPage('home')}> Meet the Comics </a> </div>
+  <div> <a className="nav-element" href={()=>false} onClick={()=> props.setCurrentPage('comics')}> Meet the Comics </a> </div>
   <div> <a className="nav-element" href={()=>false} onClick={()=> props.setCurrentPage('about')}> About </a> </div>
   <div> <a className="nav-element" href={()=>false} onClick={()=> props.setCurrentPage('contact')} > Contact/Submissions </a> </div>
   
