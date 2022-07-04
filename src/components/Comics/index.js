@@ -3,8 +3,8 @@ import React from 'react';
 
 function Comics(){
     return(
-        <div>
-             <h1 className="section-title" id="meet-the-comics">   Meet the Comics     </h1>
+        <div className="page-component">
+             <h1 className="section-title" id="meet-the-comics-component">   Meet the Comics     </h1>
 
                     
                 <div>
