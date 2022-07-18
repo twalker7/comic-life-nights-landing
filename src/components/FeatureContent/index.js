@@ -1,6 +1,6 @@
 import React from 'react';
-import video from '../../assets/comicnigh.mp4'
-
+import video from '../../assets/comicnight.3gp'
+import VideoPlayer from '../VideoPlayer';
 
 
 function FeatureContent(){
@@ -8,11 +8,11 @@ function FeatureContent(){
     return(
         <div className="homepage-component">
             
-           
+            
               <img id="jumbotron" src={require(`../../assets/flyer.jpg`)} alt="Comic Life Nights 6/18/2022 Event Promotion"/>
               
               <a href="https://www.eventbrite.com/e/comic-life-nights-tickets-362170741437?aff=ebdsoporgprofile" target="_target"><h3 className="section-title" id="eventbrite-link">Purchase Tickets on Eventbrite</h3></a>
-
+        
 
           <h1 className="section-title" id="meet-the-comics">   Meet the Comics     </h1>
 

@@ -23,11 +23,11 @@ function App() {
       case 'about':
         return <About/>
 
-        case 'upcoming':
-          return <Upcoming/>
+      case 'upcoming':
+        return <Upcoming/>
 
-          case 'comics':
-            return <Comics/>
+        case 'comics':
+          return <Comics/>
       
       default: 
       return
