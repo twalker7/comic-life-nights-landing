@@ -122,6 +122,21 @@ width: 40vh;
   background-color: black;
   height: 20px;
 }
+
+.circuit-container{
+  background-color: black;
+  
+}
+
+.circuit{
+  border: white solid 3px;
+}
+
+.circuit-propellor{
+  background-color: black;
+  animation: circuitflow 60s linear infinite normal;
+}
+
 @keyframes logoshake {
   from {
     transform: translate(5px, 0%)
@@ -137,5 +152,12 @@ width: 40vh;
   }
   to {
     transform: translate(3px, 0%)
+  }
+}
+
+
+@keyframes circuitflow{
+  from{
+    
   }
 }
