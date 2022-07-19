@@ -2,7 +2,7 @@ import React from 'react';
 
 function Upcoming(){
     return(
-        <div className="page-component">
+        <div className="page-component upcoming">
             <h1 className="section-title"> Upcoming </h1>
             <div className="circuit-container"> 
                 <div className="circuit"> 
