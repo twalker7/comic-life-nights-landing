@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/comic-life-nights-landing/static/css/main.5d343e25.css",
+    "main.css": "/comic-life-nights-landing/static/css/main.43b39846.css",
     "main.js": "/comic-life-nights-landing/static/js/main.4d48e4b4.js",
     "static/js/787.304dab68.chunk.js": "/comic-life-nights-landing/static/js/787.304dab68.chunk.js",
     "static/media/comicnight.3gp": "/comic-life-nights-landing/static/media/comicnight.017ce5deaa9add041ad0.3gp",
@@ -13,12 +13,12 @@
     "static/media/comic-terrence-murphy.jpg": "/comic-life-nights-landing/static/media/comic-terrence-murphy.6dbe7b406694777d3556.jpg",
     "static/media/comic-life-nights-about.jpeg": "/comic-life-nights-landing/static/media/comic-life-nights-about.b333da9673e5474a9086.jpeg",
     "index.html": "/comic-life-nights-landing/index.html",
-    "main.5d343e25.css.map": "/comic-life-nights-landing/static/css/main.5d343e25.css.map",
+    "main.43b39846.css.map": "/comic-life-nights-landing/static/css/main.43b39846.css.map",
     "main.4d48e4b4.js.map": "/comic-life-nights-landing/static/js/main.4d48e4b4.js.map",
     "787.304dab68.chunk.js.map": "/comic-life-nights-landing/static/js/787.304dab68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d343e25.css",
+    "static/css/main.43b39846.css",
     "static/js/main.4d48e4b4.js"
   ]
 }
