@@ -9,7 +9,7 @@ function FeatureContent(){
         <div className="homepage-component">
             
             
-              <img id="jumbotron" src={require(`../../assets/flyer.jpg`)} alt="Comic Life Nights 6/18/2022 Event Promotion"/>
+              <img id="jumbotron" src={require(`../../assets/comic-life-nights-poster.jpg`)} alt="Comic Life Nights 6/18/2022 Event Promotion"/>
               
               <a href="https://www.eventbrite.com/e/comic-life-nights-tickets-362170741437?aff=ebdsoporgprofile" target="_target"><h3 className="section-title" id="eventbrite-link">Purchase Tickets on Eventbrite</h3></a>
         
