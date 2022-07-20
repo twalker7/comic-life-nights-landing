@@ -131,11 +131,15 @@ width: 40vh;
   align-items: center;
 }
 
+.coming-soon-subtitle{
+  margin-top: 100px;
+}
+
 .circuit-container{
   background-color: black;
   height: 200px;
   width: 200px;
-  margin-top: 100px;
+ 
   border: 8px white solid;
    display: flex;
    justify-content: center;
